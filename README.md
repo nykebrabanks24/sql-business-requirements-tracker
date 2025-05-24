@@ -17,7 +17,7 @@ This project simulates a simplified system a Business Analyst might use to track
 ## 📦 Tools Used
 - MySQL Workbench
 - GitHub
-- (Optional) Power BI or Excel for reporting
+- Excel for reporting
 
 ## 📁 How to Run
 1. Run `database_schema.sql` to create the structure.
