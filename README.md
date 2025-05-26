@@ -24,4 +24,16 @@ This project simulates a simplified system a Business Analyst might use to track
 2. Run `sample_data.sql` to populate tables.
 3. Run `business_queries.sql` to extract business insights.
 
-<pre> ## 📁 Project Structure <code> sql-business-requirements-tracker/ ├── SQL/ │ ├── database_schema.sql │ ├── sample_data.sql │ └── business_queries.sql ├── CSV/ │ ├── requirements_by_stakeholder.csv │ ├── status_by_project.csv │ └── open_issues_by_userstory.csv ├── PowerBI/ │ ├── powerbi_dashboard.pbix │ └── dashboard_screenshot.png └── README.md </code> </pre>
+sql-business-requirements-tracker/
+├── SQL/
+│   ├── database_schema.sql
+│   ├── sample_data.sql
+│   └── business_queries.sql
+├── CSV/
+│   ├── requirements_by_stakeholder.csv
+│   ├── status_by_project.csv
+│   └── open_issues_by_userstory.csv
+├── PowerBI/
+│   ├── powerbi_dashboard.pbix
+│   └── dashboard_screenshot.png
+└── README.md
